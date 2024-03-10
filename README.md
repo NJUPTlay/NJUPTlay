@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=NJUPTlay)
+![Lay's GitHub stats](https://github-readme-stats.vercel.app/api?username=NJUPTlay&show_icons=true&theme=radical)
 <!--
 **NJUPTlay/NJUPTlay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
