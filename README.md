@@ -1,9 +1,18 @@
-### Hi there 👋 This is Lay!
+<h1 align="center">
+   Hi there 👋 This is Lay!
+</h1>
 
-![Lay's GitHub stats](https://github-readme-stats.vercel.app/api?username=NJUPTlay&show_icons=true&theme=shades-of-purple)
+<p align="center">
+    <img
+      align="center"
+       height="195"
+      src="https://github-readme-stats.vercel.app/api?username=NJUPTlay&show_icons=true&theme=shades-of-purple"
+    />
+</p>
+
 <!--
 **NJUPTlay/NJUPTlay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://github-readme-stats.vercel.app/api/top-langs/?username=NJUPTlay&layout=donut&theme=radical&hide=html
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
